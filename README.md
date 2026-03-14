@@ -28,20 +28,6 @@ I am based in Bengaluru, India, focused on crafting intelligent solutions throug
 
 ---
 
-### 🏗️ Featured Projects
-
-* **Guttu - Password Manager:** A secure mobile application built with **React Native** and Expo. It features hardware-backed key management (Expo SecureStore) and AES encryption for maximum local security.
-* **SQL Data Warehouse:** A comprehensive analytical warehouse using **MySQL**. Implements star schema modeling and automated ETL workflows to optimize query performance for large datasets.
-* **MERN Authentication System:** A full-stack security implementation using **MongoDB, Express, React, and Node.js** with JWT-based account verification and RESTful architecture.
-
----
-
-### 📜 Certifications
-
-* **Google Data Analytics Professional Certificate**
-    * Specialized in Data Cleansing, Validation, Analysis, and Visualization.
-
----
 
 ### 📊 GitHub Insights
 
