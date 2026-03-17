@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Mohan Kumar N!
 
-### 🚀 AI & Data Engineer | Full-Stack Developer | MIS Specialist
-
-I am based in Bengaluru, India, focused on crafting intelligent solutions through code and data. Currently, I serve as an **MIS Executive at Puthur Infotech**, where I leverage Python and SQL to automate complex reporting and drive data-driven decision-making.
+### 🚀 Computer Science Engineer
+Passionate about building data-driven applications and uncovering insights through data
 
 ---
 
