@@ -1,4 +1,4 @@
-# `>>> import mohan_kumar as dev` 🐍
+# `>>> import mohan_kumar as dev`
 
 ```python
 #!/usr/bin/env python3
@@ -48,14 +48,29 @@ TECH_STACK = {
 
 ## `>>> dev.fetch_github_telemetry("MohanReddy05")`
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img height=&quot;165em&quot; src=&quot;https://github-readme-stats.vercel.app/api?username=MohanReddy05&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&quot; alt=&quot;Mohan&#39;s GitHub Stats&quot; /&gt;
-  &lt;img height=&quot;165em&quot; src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=MohanReddy05&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;Top Languages&quot; /&gt;
-&lt;/div&gt;
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://github-readme-streak-stats.herokuapp.com/?user=MohanReddy05&amp;theme=tokyonight&amp;hide_border=true&quot; alt=&quot;GitHub Streak&quot; /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=MohanReddy05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    alt="Mohan's GitHub Stats"
+  />
+  <img
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanReddy05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MohanReddy05&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
+
 
 ## `>>> dev.connect()`
 
