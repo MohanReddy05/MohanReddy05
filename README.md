@@ -61,15 +61,6 @@ TECH_STACK = {
   />
 </div>
 
-<br/>
-
-<div align="center">
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com/?user=MohanReddy05&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</div>
 
 
 ## `>>> dev.connect()`
