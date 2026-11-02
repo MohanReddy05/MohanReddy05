@@ -48,16 +48,15 @@ TECH_STACK = {
 
 ## `>>> dev.fetch_github_telemetry("MohanReddy05")`
 
-
 <div align="center">
   <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api?username=MohanReddy05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-    alt="Mohan's GitHub Stats"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=MohanReddy05&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
   />
   <img
-    height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanReddy05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohanReddy05&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </div>
@@ -66,8 +65,9 @@ TECH_STACK = {
 
 <div align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MohanReddy05&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=MohanReddy05&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </div>
 
